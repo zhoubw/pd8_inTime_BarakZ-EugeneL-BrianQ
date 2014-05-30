@@ -16,3 +16,7 @@ APCS Period 8 Final Project
 - attempt to implement gravity for Megaman jump
 - gravity, g = acceleration of gravity
 - need to fix formula
+
+5/29/14
+- temporary gravity implementation
+- planned map structure
